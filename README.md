@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gearbox0819
+- 👋 Hi, I’m Lightspeed (without light speed)
 - 👀 I’m interested in Web Development and general C++ development.
 - 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on simple websites and console based C++ applications.
